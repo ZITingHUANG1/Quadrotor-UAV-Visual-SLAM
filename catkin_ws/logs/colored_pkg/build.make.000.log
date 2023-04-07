@@ -1,0 +1,17 @@
+[35m[1mScanning dependencies of target colored_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/colored_node.dir/src/colored_node.cpp.o[0m
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/colored_pkg/src/colored_node.cpp:[m[K In member function ‘[01m[Kvoid colored_mesh_generation::SmoothPointcloud(pcl::PointCloud<pcl::PointXYZRGB>::Ptr&, pcl::PointCloud<pcl::PointXYZRGB>::Ptr&)[m[K’:
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/colored_pkg/src/colored_node.cpp:435:33:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid pcl::MovingLeastSquares<PointInT, PointOutT>::setPolynomialFit(bool) [with PointInT = pcl::PointXYZRGB; PointOutT = pcl::PointXYZRGB][m[K’ is deprecated: use setPolynomialOrder() instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  435 |       mls.setPolynomialFit(false[01;35m[K)[m[K;
+      |                                 [01;35m[K^[m[K
+In file included from [01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/colored_pkg/src/colored_node.cpp:43[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/surface/mls.h:361:7:[m[K [01;36m[Knote: [m[Kdeclared here
+  361 |       [01;36m[KsetPolynomialFit[m[K (bool polynomial_fit)
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/colored_pkg/src/colored_node.cpp:[m[K In member function ‘[01m[Kpcl::PolygonMesh colored_mesh_generation::greedy_traingle_GenerateMesh(pcl::PointCloud<pcl::PointXYZRGB>::Ptr, pcl::PointCloud<pcl::Normal>::Ptr)[m[K’:
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/colored_pkg/src/colored_node.cpp:541:5:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+  541 |     [01;35m[K}[m[K
+      |     [01;35m[K^[m[K
+[100%] [32m[1mLinking CXX executable /home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/lib/colored_pkg/colored_node[0m
+/usr/bin/ld: warning: libopencv_imgcodecs.so.4.2, needed by /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.2.0, may conflict with libopencv_imgcodecs.so.406
+[100%] Built target colored_node

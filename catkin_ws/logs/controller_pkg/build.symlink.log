@@ -1,0 +1,4 @@
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/controller_pkg/cmake/controller_pkgConfig.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/controller_pkg/cmake/controller_pkgConfig-version.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/controller_pkg/controller_node
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/pkgconfig/controller_pkg.pc

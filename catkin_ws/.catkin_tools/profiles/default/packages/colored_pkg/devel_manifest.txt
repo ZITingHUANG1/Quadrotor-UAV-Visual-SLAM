@@ -1,0 +1,6 @@
+colored_pkg
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/cmake.lock /home/hzt/autsys-projects-amg/catkin_ws/devel/./cmake.lock
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/share/colored_pkg/cmake/colored_pkgConfig.cmake /home/hzt/autsys-projects-amg/catkin_ws/devel/share/colored_pkg/cmake/colored_pkgConfig.cmake
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/share/colored_pkg/cmake/colored_pkgConfig-version.cmake /home/hzt/autsys-projects-amg/catkin_ws/devel/share/colored_pkg/cmake/colored_pkgConfig-version.cmake
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/lib/colored_pkg/colored_node /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/colored_pkg/colored_node
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/lib/pkgconfig/colored_pkg.pc /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/pkgconfig/colored_pkg.pc

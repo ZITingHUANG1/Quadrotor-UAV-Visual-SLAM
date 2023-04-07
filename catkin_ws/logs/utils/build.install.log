@@ -1,0 +1,7 @@
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/cmake/utils/utilsConfig.cmake
+-- Installing: /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/cmake/utils/utilsConfigVersion.cmake
+-- Installing: /home/hzt/autsys-projects-amg/catkin_ws/devel/include/utils/time_manager
+-- Installing: /home/hzt/autsys-projects-amg/catkin_ws/devel/include/utils/time_manager/time_manager.h
+-- Installing: /home/hzt/autsys-projects-amg/catkin_ws/devel/include/utils/time_manager/clock.h

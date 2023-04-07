@@ -1,0 +1,1 @@
+cmd='chmod;+x;../simulation/Linux_build_HightMapping.x86_64'

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://www.dropbox.com/s/v1rlg92y4z8tkhs/AreaMeshGeneration.zip?dl=0'
+tag=''

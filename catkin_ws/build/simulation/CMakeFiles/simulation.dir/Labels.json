@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/CMakeFiles/simulation"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/CMakeFiles/simulation.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/CMakeFiles/simulation-complete.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-install.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-mkdir.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-download.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-update.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-patch.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-configure.rule"
+		},
+		{
+			"file" : "/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/simulation-prefix/src/simulation-stamp/simulation-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"simulation"
+		],
+		"name" : "simulation"
+	}
+}

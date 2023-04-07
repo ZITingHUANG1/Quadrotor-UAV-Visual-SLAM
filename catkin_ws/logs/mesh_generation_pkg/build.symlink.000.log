@@ -1,0 +1,5 @@
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/mesh_generation_pkg/cmake/mesh_generation_pkgConfig-version.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/mesh_generation_pkg/cmake/mesh_generation_pkgConfig.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/pkgconfig/mesh_generation_pkg.pc
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/mesh_generation_pkg/topic_converter
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/mesh_generation_pkg/mesh_node

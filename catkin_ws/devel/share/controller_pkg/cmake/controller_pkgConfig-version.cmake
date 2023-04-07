@@ -1,0 +1,1 @@
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/controller_pkg/share/controller_pkg/cmake/controller_pkgConfig-version.cmake

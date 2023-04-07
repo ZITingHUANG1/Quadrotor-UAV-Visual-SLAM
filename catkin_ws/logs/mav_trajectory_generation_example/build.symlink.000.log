@@ -1,0 +1,5 @@
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/mav_trajectory_generation_example/cmake/mav_trajectory_generation_exampleConfig-version.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/mav_trajectory_generation_example/cmake/mav_trajectory_generation_exampleConfig.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/pkgconfig/mav_trajectory_generation_example.pc
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/mav_trajectory_generation_example/trajectory_generation_6dof_example
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/mav_trajectory_generation_example/trajectory_generation_example

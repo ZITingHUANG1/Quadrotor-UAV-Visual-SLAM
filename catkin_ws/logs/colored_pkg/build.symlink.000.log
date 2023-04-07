@@ -1,0 +1,4 @@
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/colored_pkg/cmake/colored_pkgConfig.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/colored_pkg/cmake/colored_pkgConfig-version.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/colored_pkg/colored_node
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/pkgconfig/colored_pkg.pc

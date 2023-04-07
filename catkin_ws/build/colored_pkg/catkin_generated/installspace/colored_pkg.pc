@@ -1,0 +1,8 @@
+prefix=/home/hzt/autsys-projects-amg/catkin_ws/install
+
+Name: colored_pkg
+Description: Description of colored_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

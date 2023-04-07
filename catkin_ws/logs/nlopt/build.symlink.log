@@ -1,0 +1,10 @@
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/include/nlopt.h
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/include/nlopt.f
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/include/nlopt.hpp
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/nlopt/cmake/nloptConfig-version.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/nlopt/cmake/nloptConfig.cmake
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/share/man/man3/nlopt.3
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/libnlopt_cxx.a
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/libnlopt_wrap.so
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/libnlopt_cxx.la
+Symlinking /home/hzt/autsys-projects-amg/catkin_ws/devel/lib/pkgconfig/nlopt.pc

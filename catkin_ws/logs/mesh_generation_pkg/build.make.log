@@ -1,0 +1,28 @@
+[35m[1mScanning dependencies of target topic_converter[0m
+[35m[1mScanning dependencies of target mesh_node[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/topic_converter.dir/src/topic_converter.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/mesh_node.dir/src/mesh_node.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/hzt/autsys-projects-amg/catkin_ws/devel/.private/mesh_generation_pkg/lib/mesh_generation_pkg/topic_converter[0m
+[ 75%] Built target topic_converter
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/mesh_generation_pkg/src/mesh_node.cpp:[m[K In member function ‘[01m[Kvoid mesh_generation::SmoothPointcloud(pcl::PointCloud<pcl::PointXYZ>::Ptr&, pcl::PointCloud<pcl::PointXYZ>::Ptr&)[m[K’:
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/mesh_generation_pkg/src/mesh_node.cpp:482:31:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid pcl::MovingLeastSquares<PointInT, PointOutT>::setPolynomialFit(bool) [with PointInT = pcl::PointXYZ; PointOutT = pcl::PointXYZ][m[K’ is deprecated: use setPolynomialOrder() instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  482 |     mls.setPolynomialFit(false[01;35m[K)[m[K;
+      |                               [01;35m[K^[m[K
+In file included from [01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/mesh_generation_pkg/src/mesh_node.cpp:48[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/surface/mls.h:361:7:[m[K [01;36m[Knote: [m[Kdeclared here
+  361 |       [01;36m[KsetPolynomialFit[m[K (bool polynomial_fit)
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/mesh_generation_pkg/src/mesh_node.cpp:[m[K In member function ‘[01m[Kvoid mesh_generation::SmoothPointcloud_c(pcl::PointCloud<pcl::PointXYZRGB>::Ptr&, pcl::PointCloud<pcl::PointXYZRGB>::Ptr&)[m[K’:
+[01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/mesh_generation_pkg/src/mesh_node.cpp:710:31:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid pcl::MovingLeastSquares<PointInT, PointOutT>::setPolynomialFit(bool) [with PointInT = pcl::PointXYZRGB; PointOutT = pcl::PointXYZRGB][m[K’ is deprecated: use setPolynomialOrder() instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  710 |     mls.setPolynomialFit(false[01;35m[K)[m[K;
+      |                               [01;35m[K^[m[K
+In file included from [01m[K/home/hzt/autsys-projects-amg/catkin_ws/src/mesh_generation_pkg/src/mesh_node.cpp:48[m[K:
+[01m[K/usr/include/pcl-1.10/pcl/surface/mls.h:361:7:[m[K [01;36m[Knote: [m[Kdeclared here
+  361 |       [01;36m[KsetPolynomialFit[m[K (bool polynomial_fit)
+      |       [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable /home/hzt/autsys-projects-amg/catkin_ws/devel/.private/mesh_generation_pkg/lib/mesh_generation_pkg/mesh_node[0m
+/usr/bin/ld: warning: libopencv_imgcodecs.so.4.2, needed by /opt/ros/noetic/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.406
+/usr/bin/ld: warning: libopencv_features2d.so.4.2, needed by /usr/lib/x86_64-linux-gnu/libopencv_calib3d.so.4.2.0, may conflict with libopencv_features2d.so.406
+/usr/bin/ld: warning: libopencv_imgproc.so.406, needed by /usr/local/lib/libopencv_imgcodecs.so.4.6.0, may conflict with libopencv_imgproc.so.4.2
+/usr/bin/ld: warning: libopencv_core.so.406, needed by /usr/local/lib/libopencv_imgcodecs.so.4.6.0, may conflict with libopencv_core.so.4.2
+[100%] Built target mesh_node

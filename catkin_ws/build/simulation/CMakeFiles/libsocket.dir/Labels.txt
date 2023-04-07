@@ -1,0 +1,13 @@
+# Target labels
+ libsocket
+# Source files and their labels
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/CMakeFiles/libsocket
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/CMakeFiles/libsocket.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/CMakeFiles/libsocket-complete.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-install.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-mkdir.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-download.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-update.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-patch.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-configure.rule
+/home/hzt/autsys-projects-amg/catkin_ws/build/simulation/libsocket-prefix/src/libsocket-stamp/libsocket-build.rule

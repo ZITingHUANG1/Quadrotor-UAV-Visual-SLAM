@@ -1,0 +1,6 @@
+devel_space: /home/hzt/autsys-projects-amg/catkin_ws/devel
+install: false
+install_space: /home/hzt/autsys-projects-amg/catkin_ws/install
+profile: default
+source_space: /home/hzt/autsys-projects-amg/catkin_ws/src
+workspace: /home/hzt/autsys-projects-amg/catkin_ws

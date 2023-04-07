@@ -1,0 +1,1 @@
+/home/hzt/autsys-projects-amg/catkin_ws/devel/.private/colored_pkg/share/colored_pkg/cmake/colored_pkgConfig.cmake
